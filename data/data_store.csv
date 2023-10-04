@@ -1,7 +1,7 @@
-Id	Brand	Model	Price	
-287947	Apple	i14	75000	
-287948	Samsung	e15	72000	
-287949	Apple	i15	33000	
-287950	Vivo	v5	85000	
-287951	Lenovo	l7	40000	
+Id,Brand,Model,Price	
+287947,Apple,i14,75000	
+287948,Samsung,e15,72000	
+287949,Apple,i15,33000	
+287950,Vivo,v5,85000	
+287951,Lenovo,l7,40000	
 				
